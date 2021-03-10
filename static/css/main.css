@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+.table-entitys {
+  margin: auto;
+}
+
+.table-column {
+  display: flex;
+  margin-top: -1px;
+}
+.table-row {
+  border: 1px solid silver;
+  font-weight: 600;
+  width: 120px;
+  text-align: center;
+}
+
+.table-entitys td {
+  border: 1px solid silver;
+  /* background: red; */
+}
+
+.table-row-name {
+  width: 160px;
+  padding: 0 10px;
+  text-align: left;
+}
